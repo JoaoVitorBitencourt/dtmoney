@@ -48,3 +48,7 @@ export const Container = styled.form`
         }
     }
 `;
+
+export const TransactionTypeContainer = styled.div`
+
+`;
